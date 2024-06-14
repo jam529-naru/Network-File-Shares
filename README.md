@@ -18,7 +18,7 @@ First, you need to create two virtual machines: one will be the domain controlle
 
 <p></p>
 
-If you have not done the Active directory lab yet, please go [here](https://github.com/afisaminou/configure-ad).
+If you have not done the Active directory lab yet, please go [here](https://github.com/jam529-naru/Configuring-Active-Directory).
 
 <p></p>
 
